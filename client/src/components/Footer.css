@@ -1,0 +1,21 @@
+
+.footer-container {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4c5cb3;
+    padding: 0px;
+    /* height: 100px; */
+}
+.retunSavers-listStyle {
+    color:black
+
+}
+.returnSavers-footer-bottom {
+    text-align: center;
+    padding-bottom: 0px;
+
+
+}
+

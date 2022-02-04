@@ -1,0 +1,27 @@
+{
+  "name": "returns_savers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm run install-client && npm run install-server",
+    "install-client": "cd client && npm install && cd ..",
+    "install-server": "cd server && npm install && cd ..",
+    "build": "npm run build-client",
+    "build-client": "cd client && npm run build && cd ..",
+    "start": "npm run start-server",
+    "start-server": "cd server && npm start && cd .."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jspdf": "^2.4.0",
+    "mongoose": "^6.0.13",
+    "react-icons": "^4.3.1",
+    "react-toastify": "^8.1.0",
+    "toastify": "^2.0.1",
+    "yup": "^0.32.11"
+  }
+}

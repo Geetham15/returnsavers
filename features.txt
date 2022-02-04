@@ -1,0 +1,37 @@
+Features to add:
+
+1)****  Edit Page add field ? Sold by ..ex.adidas.ca - done
+                    -> Was product used? - done
+                    -> Additional Comments
+                    -> Questions to array  
+
+2)***** Landing Page. Header - USER - Sign up and sign in
+                    ADMIN - Diffrent dashboard
+                            -Separate page to show product content ex. Page 1 > 2> 3> > (Pagination)
+                    Retailer- Analytic dashboard 
+                        -> PENDING section can be changed manually
+                        -> Customize questions for retailers
+
+3)*** Footer - Contact form- Inquiries, Privacy policy, Copyright
+         - Made with love in Calgary
+
+4)*** About US- separate page - done
+
+5)** Background Picture - done
+
+
+Corrections: 
+
+1)  Date picker 
+        ref- Material-ui
+                -npm package
+
+2)  autofiller 
+        ref- Material-ui
+
+3)  Approve apr and true - done
+
+4)  Shipping Label - dynamic values 
+
+5)  Clean up 
+        -Titles match to the page

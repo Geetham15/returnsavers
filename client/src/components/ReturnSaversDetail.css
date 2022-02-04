@@ -1,0 +1,30 @@
+.contents {
+    background-color: aliceblue;
+    opacity: 100%;
+    width: 80%;
+    margin:auto
+    
+}
+
+
+.detail-fields {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.field-title {
+    font-weight: 700;
+    text-align: right;
+    margin:5px;
+    /* margin: 0em 1em;   */
+}
+
+.field-value {
+    text-align: left;
+    margin: 0em;
+}
+
+.register-field-value {
+    width: 20em;
+    margin: 2px;
+}
